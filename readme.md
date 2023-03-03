@@ -17,15 +17,15 @@ Users type their new items/tasks in the bar beneath the date and time. Upon clic
 
 ## Future
 
-Features to be added in the future are:
--calendar button to optionally set a deadline
--click and drag to rearrange items
--double click items to edit them
--color code items orange the day before their deadline and move above other items
--color code items red the day of the deadline (and beyond) and move above other items
--split input boxes to have one bolded title box and one content box
--fix the appearance of the checkmark and maintain strike-out effect upon refresh
--make app installable as a PWA for use on desktop and mobile devices
+Features to be added in the future are:<br>
+-calendar button to optionally set a deadline<br>
+-click and drag to rearrange items<br>
+-double click items to edit them<br>
+-color code items orange the day before their deadline and move above other items<br>
+-color code items red the day of the deadline (and beyond) and move above other items<br>
+-split input boxes to have one bolded title box and one content box<br>
+-fix the appearance of the checkmark and maintain strike-out effect upon refresh<br>
+-make app installable as a PWA for use on desktop and mobile devices<br>
 -utilize log-in features and web API's to make the lists accessible on multiple devices
 
 
