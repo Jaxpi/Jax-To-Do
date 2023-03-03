@@ -26,6 +26,7 @@ Features to be added in the future are:
 -split input boxes to have one bolded title box and one content box
 -fix the appearance of the checkmark and maintain strike-out effect upon refresh
 -make app installable as a PWA for use on desktop and mobile devices
+-utilize log-in features and web API's to make the lists accessible on multiple devices
 
 
 ## License
